@@ -8,7 +8,7 @@ const Hero = () => {
 				<source
 					type="image/avif"
 					srcSet={`
-            /images/hero-img.avif  1x,
+            /images/hero-img.avif 1x,
             /images/hero-img@2x.avif 2x,
             /images/hero-img@3x.avif 3x
           `}
